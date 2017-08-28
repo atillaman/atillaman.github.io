@@ -1,2 +1,1 @@
-# atillaman.github.io
-my github website where you can see my projects.
+### if you want, you can see my graduation in github via this site!
